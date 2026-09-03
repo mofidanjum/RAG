@@ -1,0 +1,3 @@
+Equifax had a data breach on XX/XX/XXXX, which contained my personal, sensitive data potentially including my social security number, bank accounts, credit cards, etc. However, Equifax did not announce the data breach until XX/XX/XXXX. 
+
+After providing the necessary information in their website www.equifaxsecurity2017.com, it was confirmed that my data was impacted by the data breach.

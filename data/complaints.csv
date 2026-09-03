@@ -1,0 +1,241 @@
+complaint_id,company_id,product,issue,state,date_received,company_response,timely_response
+2589032,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CA,07/29/2017,Closed with explanation,Yes
+1557164,3,Credit reporting,Incorrect information on credit report,NY,09-09-2015,Closed with explanation,Yes
+2206066,3,Credit reporting,Credit reporting company's investigation,FL,11/13/2016,Closed with non-monetary relief,Yes
+2485611,5,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,FL,05/16/2017,Closed with explanation,Yes
+1725302,3,Credit reporting,Incorrect information on credit report,FL,01-03-2016,Closed with explanation,Yes
+2651318,3,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,CA,08/26/2017,Closed with explanation,Yes
+2721237,6,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CA,11-06-2017,Closed with explanation,Yes
+2641793,3,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,NC,08/16/2017,Closed with explanation,Yes
+1840566,3,Credit reporting,Credit reporting company's investigation,NY,03/19/2016,Closed with explanation,Yes
+2092964,3,Credit reporting,Improper use of my credit report,GA,09-01-2016,Closed with explanation,Yes
+2095731,2,Credit card,Credit card protection / Debt protection,PA,09-04-2016,Closed with monetary relief,Yes
+2762332,1,Credit card or prepaid card,Problem with a purchase shown on your statement,OH,12/22/2017,Closed with monetary relief,Yes
+1759171,1,Bank account or service,Problems caused by my funds being low,CA,01/26/2016,Closed with monetary relief,Yes
+2309547,5,Credit reporting,Incorrect information on credit report,NJ,01/25/2017,Closed with explanation,Yes
+1802684,5,Credit reporting,Incorrect information on credit report,NY,02/24/2016,Closed with non-monetary relief,Yes
+2765623,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,TX,12/28/2017,Closed with non-monetary relief,Yes
+2662692,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,CO,09-08-2017,Closed with explanation,Yes
+2684555,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,SC,09/26/2017,Closed with non-monetary relief,Yes
+2663168,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,TX,09-10-2017,Closed with explanation,Yes
+1642741,1,Credit card,Credit determination,NJ,11-04-2015,Closed with explanation,Yes
+2570631,5,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,GA,07-11-2017,Closed with non-monetary relief,Yes
+2206080,4,Credit reporting,Unable to get credit report/credit score,VA,11/13/2016,Closed with explanation,Yes
+2819454,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,PA,02/21/2018,Closed with explanation,Yes
+2665826,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,NC,09-08-2017,Closed with explanation,Yes
+2738971,2,Credit card or prepaid card,Problem with a purchase shown on your statement,FL,11/27/2017,Closed with monetary relief,Yes
+2796603,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,FL,01/29/2018,Closed with non-monetary relief,Yes
+2734374,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NY,11/20/2017,Closed with non-monetary relief,Yes
+2824301,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,FL,02/24/2018,Closed with non-monetary relief,Yes
+1460301,3,Credit reporting,Incorrect information on credit report,GA,07-09-2015,Closed with explanation,Yes
+2784887,6,Vehicle loan or lease,Problems at the end of the loan or lease,WA,01/17/2018,Closed with explanation,Yes
+2150847,5,Credit reporting,Credit reporting company's investigation,WA,10-07-2016,Closed with explanation,Yes
+1724870,4,Credit reporting,Credit reporting company's investigation,TX,01-02-2016,Closed with non-monetary relief,Yes
+2883756,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CO,04/22/2018,Closed with explanation,Yes
+1376337,1,Mortgage,"Loan servicing, payments, escrow account",TX,05/14/2015,Closed with monetary relief,Yes
+2754354,6,Debt collection,Took or threatened to take negative or legal action,VA,12/14/2017,Closed with explanation,Yes
+2782868,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,TX,01/16/2018,Closed with explanation,Yes
+2415857,1,Money transfers,Other transaction issues,CA,04-03-2017,Closed with monetary relief,Yes
+2257658,6,Bank account or service,"Account opening, closing, or management",AZ,12/21/2016,Closed with explanation,No
+1654954,2,Credit card,Other,AZ,11/13/2015,Closed with non-monetary relief,Yes
+2714239,6,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,TN,10/27/2017,Closed with explanation,Yes
+2002770,4,Credit reporting,Credit reporting company's investigation,FL,07-07-2016,Closed with explanation,Yes
+1786091,6,Mortgage,"Loan servicing, payments, escrow account",NY,02-12-2016,Closed with explanation,Yes
+1290845,5,Credit reporting,Incorrect information on credit report,FL,03/19/2015,Closed with explanation,Yes
+2045080,1,Mortgage,"Loan servicing, payments, escrow account",FL,08-03-2016,Closed with explanation,Yes
+2757217,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CA,12/16/2017,Closed with explanation,Yes
+2170731,4,Credit reporting,Incorrect information on credit report,MA,10/21/2016,Closed with explanation,Yes
+2674214,3,"Credit reporting, credit repair services, or other personal consumer reports",Credit monitoring or identity theft protection services,AZ,09/15/2017,Closed with explanation,Yes
+2151468,4,Credit reporting,Incorrect information on credit report,NJ,10-08-2016,Closed with non-monetary relief,Yes
+2870832,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CA,04-10-2018,Closed with explanation,Yes
+2666101,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,VA,09-08-2017,Closed with explanation,Yes
+2743252,4,Debt collection,Attempts to collect debt not owed,GA,12-01-2017,Closed with explanation,Yes
+2310764,1,Bank account or service,Using a debit or ATM card,NV,01/25/2017,Closed with explanation,Yes
+2098390,5,Credit reporting,Incorrect information on credit report,GA,09-07-2016,Closed with explanation,Yes
+2207977,5,Credit reporting,Incorrect information on credit report,AL,11/14/2016,Closed with explanation,Yes
+2680194,1,Mortgage,Applying for a mortgage or refinancing an existing mortgage,CA,09/20/2017,Closed with explanation,Yes
+1326163,2,Credit card,Billing disputes,MI,04-11-2015,Closed with explanation,Yes
+1872586,3,Credit reporting,Incorrect information on credit report,TX,04-11-2016,Closed with explanation,Yes
+2561381,5,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,TX,06/28/2017,Closed with explanation,Yes
+1765568,5,Credit reporting,Credit reporting company's investigation,TX,01/30/2016,Closed with explanation,Yes
+2497035,1,Mortgage,Incorrect information on your report,MI,05/30/2017,Closed with explanation,Yes
+2498474,3,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,TX,05/31/2017,Closed with explanation,Yes
+2859219,5,Debt collection,Attempts to collect debt not owed,TX,03/29/2018,Closed with explanation,Yes
+2441758,4,Credit reporting,Unable to get credit report/credit score,TX,04/20/2017,Closed with non-monetary relief,Yes
+2127032,4,Credit reporting,Incorrect information on credit report,CA,09/22/2016,Closed with explanation,Yes
+2662281,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,TX,09-09-2017,Closed with explanation,Yes
+2812467,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,GA,02/13/2018,Closed with non-monetary relief,Yes
+2485104,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NY,05/15/2017,Closed with non-monetary relief,Yes
+1717018,1,Credit card,Rewards,CA,12/27/2015,Closed with explanation,Yes
+2405418,4,Credit reporting,Incorrect information on credit report,TX,03/27/2017,Closed with explanation,Yes
+2768455,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,FL,12/31/2017,Closed with non-monetary relief,Yes
+1296451,5,Credit reporting,Incorrect information on credit report,CA,03/23/2015,Closed with explanation,Yes
+1865353,2,Credit card,Credit line increase/decrease,OH,04-05-2016,Closed with monetary relief,Yes
+2031482,5,Credit reporting,Incorrect information on credit report,ME,07/26/2016,Closed with explanation,Yes
+2556421,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,CA,06/22/2017,Closed with explanation,Yes
+2815778,5,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,TX,02/15/2018,Closed with explanation,Yes
+2643222,3,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,FL,08-07-2017,Closed with explanation,Yes
+1292898,1,Mortgage,"Loan modification,collection,foreclosure",NJ,03/20/2015,Closed with explanation,Yes
+2823497,2,Credit card or prepaid card,Problem when making payments,WA,02/23/2018,Closed with explanation,Yes
+1642057,1,Credit card,Credit line increase/decrease,NC,11-05-2015,Closed with monetary relief,Yes
+1598691,6,Bank account or service,Deposits and withdrawals,FL,10-08-2015,Closed with explanation,Yes
+1358385,6,Bank account or service,Deposits and withdrawals,MD,05-04-2015,Closed with monetary relief,Yes
+2164473,5,Credit reporting,Incorrect information on credit report,GA,10/17/2016,Closed with explanation,Yes
+1854602,6,Student loan,Dealing with my lender or servicer,NJ,03/29/2016,Closed with explanation,No
+1740560,6,Bank account or service,"Account opening, closing, or management",KS,01/13/2016,Closed with non-monetary relief,No
+2345660,4,Credit reporting,Incorrect information on credit report,PA,02/15/2017,Closed with non-monetary relief,Yes
+2802442,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CA,02-03-2018,Closed with explanation,Yes
+1889297,1,Mortgage,"Loan modification,collection,foreclosure",GA,04/20/2016,Closed with explanation,Yes
+2282215,1,Bank account or service,"Account opening, closing, or management",TX,01-10-2017,Closed with monetary relief,Yes
+2706401,2,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NC,10/19/2017,Closed with explanation,Yes
+2684396,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,MS,09/26/2017,Closed with non-monetary relief,Yes
+1399716,4,Credit reporting,Credit monitoring or identity protection,TX,06-01-2015,Closed with monetary relief,Yes
+1946307,1,Debt collection,False statements or representation,TX,05/29/2016,Closed with explanation,Yes
+2712460,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,MO,10/25/2017,Closed with explanation,Yes
+2860936,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,PA,04-01-2018,Closed with explanation,Yes
+1531980,5,Credit reporting,Incorrect information on credit report,CA,08/23/2015,Closed with explanation,Yes
+2084502,6,Debt collection,Taking/threatening an illegal action,PA,08/27/2016,Closed with explanation,Yes
+1540852,1,Bank account or service,Deposits and withdrawals,NV,08/27/2015,Closed with explanation,Yes
+2631967,3,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,DE,08/15/2017,Closed with explanation,Yes
+1640236,2,Bank account or service,"Account opening, closing, or management",VA,11-04-2015,Closed with explanation,Yes
+2864899,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NY,04-05-2018,Closed with non-monetary relief,Yes
+1876583,2,Credit card,Advertising and marketing,NC,04-12-2016,Closed with explanation,Yes
+2706068,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,ID,10/18/2017,Closed with explanation,Yes
+1496907,5,Credit reporting,Incorrect information on credit report,FL,07/31/2015,Closed with explanation,Yes
+2830969,5,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,OH,03-02-2018,Closed with non-monetary relief,Yes
+2168728,5,Credit reporting,Incorrect information on credit report,OK,10/19/2016,Closed with non-monetary relief,Yes
+2653993,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,TX,08/30/2017,Closed with explanation,Yes
+2471150,6,Mortgage,Applying for a mortgage or refinancing an existing mortgage,TX,04/30/2017,Closed with explanation,Yes
+2797342,6,Credit card or prepaid card,"Advertising and marketing, including promotional offers",NJ,01/29/2018,Closed with explanation,Yes
+2703587,1,Debt collection,Attempts to collect debt not owed,GA,10/16/2017,Closed with explanation,Yes
+2014278,2,Credit card,Customer service / Customer relations,CA,07/15/2016,Closed with explanation,Yes
+2627843,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,WA,08/13/2017,Closed with explanation,Yes
+2632304,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,FL,08/15/2017,Closed with explanation,Yes
+1420531,5,Credit reporting,Incorrect information on credit report,NC,06/14/2015,Closed with explanation,Yes
+2687884,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,OR,09/28/2017,Closed with non-monetary relief,Yes
+2684708,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CT,09/26/2017,Closed with explanation,Yes
+1334492,3,Credit reporting,Unable to get credit report/credit score,PA,04/17/2015,Closed with non-monetary relief,Yes
+2019130,5,Credit reporting,Credit reporting company's investigation,CA,07/19/2016,Closed with explanation,Yes
+2323924,4,Credit reporting,Credit reporting company's investigation,TX,02-03-2017,Closed with non-monetary relief,Yes
+2874953,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,GA,04/13/2018,Closed with explanation,Yes
+1491918,3,Credit reporting,Unable to get credit report/credit score,GA,07/29/2015,Closed with explanation,Yes
+2237795,6,Consumer Loan,Managing the loan or lease,NC,12-06-2016,Closed with explanation,Yes
+1444796,4,Credit reporting,Incorrect information on credit report,ID,06/30/2015,Closed with non-monetary relief,Yes
+1729206,3,Credit reporting,Incorrect information on credit report,NH,01-05-2016,Closed with non-monetary relief,Yes
+1326227,2,Credit card,Other fee,NJ,04-11-2015,Closed with monetary relief,Yes
+2157976,4,Credit reporting,Incorrect information on credit report,CO,10/13/2016,Closed with explanation,Yes
+2708631,3,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,GA,10/21/2017,Closed with non-monetary relief,Yes
+1780943,2,Credit card,Customer service / Customer relations,OK,02-09-2016,Closed with explanation,Yes
+2587024,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NY,07/27/2017,Closed with explanation,Yes
+2779726,1,Mortgage,Struggling to pay mortgage,MO,01-11-2018,Closed with explanation,Yes
+1925241,3,Credit reporting,Incorrect information on credit report,IL,05/13/2016,Closed with explanation,Yes
+2179548,5,Credit reporting,Incorrect information on credit report,CT,10/26/2016,Closed with explanation,Yes
+2663151,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,CA,09-10-2017,Closed with explanation,Yes
+1725923,1,Mortgage,"Loan servicing, payments, escrow account",CA,01-05-2016,Closed with explanation,Yes
+1308541,4,Credit reporting,Credit reporting company's investigation,WA,03/31/2015,Closed with explanation,Yes
+1472668,4,Credit reporting,Incorrect information on credit report,NC,07/16/2015,Closed with non-monetary relief,Yes
+2133826,2,Credit card,Closing/Cancelling account,NV,09/27/2016,Closed with explanation,Yes
+1674977,5,Credit reporting,Incorrect information on credit report,FL,11/30/2015,Closed with non-monetary relief,Yes
+1684623,3,Credit reporting,Improper use of my credit report,CA,12-05-2015,Closed with explanation,Yes
+2061614,6,Mortgage,"Loan modification,collection,foreclosure",CA,08-12-2016,Closed with explanation,Yes
+1319246,1,Bank account or service,"Making/receiving payments, sending money",CT,04-07-2015,Closed with explanation,Yes
+2859924,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,GA,03/30/2018,Closed with non-monetary relief,Yes
+2380208,4,Credit reporting,Incorrect information on credit report,TX,03-09-2017,Closed with non-monetary relief,Yes
+2579254,2,Credit card or prepaid card,Fees or interest,IN,07/19/2017,Closed with explanation,Yes
+2553737,2,Debt collection,Attempts to collect debt not owed,TX,06/19/2017,Closed with monetary relief,Yes
+1632864,1,Mortgage,"Loan servicing, payments, escrow account",TX,10/30/2015,Closed with explanation,Yes
+2731203,2,Credit card or prepaid card,Problem with a purchase shown on your statement,AZ,11/16/2017,Closed with non-monetary relief,Yes
+2858076,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,GA,03/29/2018,Closed with explanation,Yes
+2672779,5,"Credit reporting, credit repair services, or other personal consumer reports",Credit monitoring or identity theft protection services,CA,09/13/2017,Closed with explanation,Yes
+2762467,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,IL,12/22/2017,Closed with explanation,Yes
+1814960,3,Credit reporting,Incorrect information on credit report,TX,03-03-2016,Closed with explanation,Yes
+1895579,1,Debt collection,Cont'd attempts collect debt not owed,MI,04/25/2016,Closed with explanation,Yes
+1737610,3,Credit reporting,Incorrect information on credit report,FL,01-12-2016,Closed with explanation,Yes
+2654133,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,VA,08/30/2017,Closed with explanation,Yes
+2352645,5,Credit reporting,Incorrect information on credit report,MD,02/21/2017,Closed with explanation,Yes
+2836642,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,FL,03-08-2018,Closed with explanation,Yes
+1730708,3,Credit reporting,Incorrect information on credit report,VA,01-06-2016,Closed with explanation,Yes
+2681269,4,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,CA,09/21/2017,Closed with explanation,Yes
+2834727,5,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NY,03-07-2018,Closed with explanation,Yes
+1985878,4,Credit reporting,Incorrect information on credit report,IL,06/27/2016,Closed with explanation,Yes
+2293800,5,Credit reporting,Incorrect information on credit report,FL,01/19/2017,Closed with explanation,Yes
+1319766,6,Bank account or service,Problems caused by my funds being low,NJ,04-07-2015,Closed with explanation,Yes
+1855994,1,Mortgage,"Application, originator, mortgage broker",KS,03/30/2016,Closed with monetary relief,Yes
+2674814,3,"Credit reporting, credit repair services, or other personal consumer reports",Problem with fraud alerts or security freezes,OH,09/15/2017,Closed with explanation,Yes
+2668114,3,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,IL,09-08-2017,Closed with explanation,Yes
+2719498,6,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,MD,11-03-2017,Closed with explanation,Yes
+1547125,6,Mortgage,"Loan modification,collection,foreclosure",FL,09-01-2015,Closed with explanation,Yes
+1639307,2,Mortgage,"Application, originator, mortgage broker",NY,11-04-2015,Closed with explanation,Yes
+2751355,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,GA,12-11-2017,Closed with explanation,Yes
+1518887,5,Credit reporting,Incorrect information on credit report,MI,08/14/2015,Closed with explanation,Yes
+2578463,2,Credit card or prepaid card,Problem when making payments,GA,07/18/2017,Closed with non-monetary relief,Yes
+2821441,2,Credit card or prepaid card,Getting a credit card,FL,02/21/2018,Closed with non-monetary relief,Yes
+2844352,4,"Credit reporting, credit repair services, or other personal consumer reports",Problem with customer service,WA,03/15/2018,Closed with explanation,Yes
+1848450,4,Credit reporting,Incorrect information on credit report,CA,03/24/2016,Closed with non-monetary relief,Yes
+1861859,2,Credit card,Other fee,CA,04-03-2016,Closed with monetary relief,Yes
+1839305,5,Credit reporting,Credit monitoring or identity protection,OH,03/18/2016,Closed with monetary relief,Yes
+1766738,1,Mortgage,"Loan servicing, payments, escrow account",NC,02-01-2016,Closed with explanation,Yes
+1311473,1,Credit card,Billing statement,CA,04-01-2015,Closed with monetary relief,Yes
+2848475,1,Debt collection,Attempts to collect debt not owed,MD,03/20/2018,Closed with non-monetary relief,Yes
+2470611,2,Credit card or prepaid card,"Other features, terms, or problems",NY,04/29/2017,Closed with explanation,Yes
+2041636,5,Credit reporting,Improper use of my credit report,AZ,08-02-2016,Closed with explanation,Yes
+1706852,2,Mortgage,"Loan servicing, payments, escrow account",CA,12/18/2015,Closed with explanation,Yes
+2292432,4,Credit reporting,Incorrect information on credit report,IN,01/18/2017,Closed with non-monetary relief,Yes
+2483338,2,Credit card or prepaid card,Fees or interest,MD,05-12-2017,Closed with monetary relief,Yes
+1418874,4,Credit reporting,Unable to get credit report/credit score,TX,06-12-2015,Closed with non-monetary relief,Yes
+2713887,2,Mortgage,Struggling to pay mortgage,AL,10/27/2017,Closed with explanation,Yes
+2362108,4,Credit reporting,Incorrect information on credit report,AZ,02/26/2017,Closed with explanation,Yes
+2501069,6,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,LA,06-03-2017,Closed with non-monetary relief,Yes
+2153092,1,Credit card,Delinquent account,NY,10-10-2016,Closed with explanation,Yes
+1565166,4,Credit reporting,Credit monitoring or identity protection,CA,09/15/2015,Closed with explanation,Yes
+1377581,4,Credit reporting,Incorrect information on credit report,FL,05/15/2015,Closed with non-monetary relief,Yes
+2494592,1,"Money transfer, virtual currency, or money service",Other transaction problem,NY,05/26/2017,Closed with explanation,Yes
+2557629,6,Mortgage,Trouble during payment process,CA,06/23/2017,Closed with explanation,Yes
+2286880,6,Mortgage,"Loan servicing, payments, escrow account",GA,01-12-2017,Closed with explanation,Yes
+1307116,6,Mortgage,"Loan servicing, payments, escrow account",CA,03/30/2015,Closed with explanation,Yes
+2878345,6,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,GA,04/17/2018,Closed with non-monetary relief,Yes
+1399811,1,Consumer Loan,Managing the loan or lease,PA,06-01-2015,Closed with explanation,Yes
+1767520,2,Mortgage,"Loan modification,collection,foreclosure",GA,02-01-2016,Closed with explanation,Yes
+2152412,6,Student loan,Dealing with my lender or servicer,MN,10-08-2016,Closed with explanation,No
+2190078,2,Credit card,Customer service / Customer relations,WA,11-01-2016,Closed with explanation,Yes
+2251028,1,Bank account or service,Deposits and withdrawals,NC,12/15/2016,Closed with non-monetary relief,Yes
+1772431,2,Credit card,Credit card protection / Debt protection,FL,02-05-2016,Closed with monetary relief,Yes
+2073517,1,Credit card,Billing disputes,MO,08/21/2016,Closed,Yes
+1784901,1,Mortgage,"Loan modification,collection,foreclosure",NV,02-12-2016,Closed with explanation,Yes
+2644655,2,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,GA,08/14/2017,Closed with explanation,Yes
+1971517,2,Credit card,Rewards,OR,06/16/2016,Closed with non-monetary relief,Yes
+2481898,2,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a company's investigation into an existing issue,NY,05-11-2017,Closed with explanation,Yes
+1447118,2,Credit card,APR or interest rate,NJ,07-01-2015,Closed with explanation,Yes
+2468094,6,Checking or savings account,Managing an account,CA,04/26/2017,Closed with explanation,Yes
+1729867,2,Credit card,Advertising and marketing,GA,01-06-2016,Closed with explanation,Yes
+1510375,2,Credit card,Closing/Cancelling account,AZ,08-10-2015,Closed with explanation,Yes
+2841677,6,Credit card or prepaid card,Problem with a purchase shown on your statement,CA,03/13/2018,Closed with monetary relief,Yes
+2403342,2,Mortgage,"Application, originator, mortgage broker",IL,03/24/2017,Closed with monetary relief,Yes
+2703484,6,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,NV,10/16/2017,Closed with explanation,Yes
+1809014,1,Credit card,Closing/Cancelling account,MA,02/29/2016,Closed with monetary relief,Yes
+1643721,2,Credit card,Late fee,NY,11-06-2015,Closed with monetary relief,Yes
+1476819,6,Mortgage,"Application, originator, mortgage broker",FL,07/18/2015,Closed with explanation,Yes
+1658835,1,Mortgage,"Loan modification,collection,foreclosure",NJ,11/17/2015,Closed with explanation,Yes
+1586830,1,Bank account or service,Using a debit or ATM card,OR,09/30/2015,Closed with explanation,Yes
+2103080,6,Bank account or service,"Account opening, closing, or management",FL,09-09-2016,Closed with explanation,Yes
+2339512,1,Bank account or service,"Account opening, closing, or management",MN,02-11-2017,Closed with non-monetary relief,Yes
+2828271,2,Credit card or prepaid card,Getting a credit card,MA,02/28/2018,Closed with non-monetary relief,Yes
+1603109,1,Mortgage,"Loan modification,collection,foreclosure",NV,10-12-2015,Closed with explanation,Yes
+1849537,1,Credit card,Closing/Cancelling account,FL,03/25/2016,Closed with explanation,Yes
+1706413,1,Bank account or service,"Account opening, closing, or management",MA,12/16/2015,Closed with monetary relief,Yes
+1336261,1,Mortgage,"Loan modification,collection,foreclosure",FL,04/19/2015,Closed with explanation,Yes
+1334501,2,Credit card,Billing disputes,MN,04/17/2015,Closed with monetary relief,Yes
+2257301,6,Bank account or service,"Account opening, closing, or management",CO,12/20/2016,Closed with explanation,No
+2434209,6,Consumer Loan,Managing the loan or lease,CA,04/13/2017,Closed with explanation,Yes
+2382006,2,Credit card,Other,CA,03-10-2017,Closed with explanation,Yes
+1775459,6,Bank account or service,Deposits and withdrawals,MN,02-05-2016,Closed with explanation,No
+2479549,6,Mortgage,Struggling to pay mortgage,NY,05-09-2017,Closed with explanation,Yes
+2883143,2,"Credit reporting, credit repair services, or other personal consumer reports",Confusing or misleading advertising or marketing,GA,04/23/2018,Closed with explanation,Yes
+1770870,6,Mortgage,"Application, originator, mortgage broker",CA,02-03-2016,Closed with explanation,Yes
+2186411,2,Bank account or service,Deposits and withdrawals,CA,10/31/2016,Closed with monetary relief,Yes
+2280658,6,Student loan,Dealing with my lender or servicer,NJ,01-09-2017,Closed with explanation,No
+2050525,6,Mortgage,"Application, originator, mortgage broker",IN,08-08-2016,Closed with explanation,Yes
+2543939,6,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,LA,06/14/2017,Closed with explanation,Yes
+2643853,6,Checking or savings account,Managing an account,NV,08/22/2017,Closed with non-monetary relief,Yes
+1783330,6,Mortgage,"Application, originator, mortgage broker",CA,02-11-2016,Closed,Yes
+1881911,6,Mortgage,Credit decision / Underwriting,TX,04/15/2016,Closed with explanation,Yes

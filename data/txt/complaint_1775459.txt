@@ -1,0 +1,5 @@
+XXXX and Wells Fargo are debiting money from checking account prior to the check being cashed by the recipient. Here is what is happening : 1. check is scheduled for payment via a Wells Fargo account using XXXX 2. check does not arrive at recipient for various reasons. 
+3. Wells Fargo removes $ from checking account on the day the payment is scheduled in XXXX, even thought the check was not cashed. 
+4. Recipient calls me to find out where their payment is. I see that the $ have been removed from my account so I am thinking their has been fraud. 
+5. I call Wells Fargo to understand what 's happening. Nearly 2 hours later and after talking with several people I find out that the payment processor automatically removes money from my account on the date payment was scheduled regardless of whether the check was cashed. 
+6. I believe this should be considered fraudulent activity. The payment processor was not authorized to withdraw $ from my account prior to when the recipient of the check deposited the funds to their account.
