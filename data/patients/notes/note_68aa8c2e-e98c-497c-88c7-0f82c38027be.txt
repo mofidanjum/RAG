@@ -1,0 +1,3 @@
+Patient: Sanford861 Fritsch593
+Visit date: 1924-04-17T09:55:43Z
+Visit type: Encounter for problem (ambulatory)

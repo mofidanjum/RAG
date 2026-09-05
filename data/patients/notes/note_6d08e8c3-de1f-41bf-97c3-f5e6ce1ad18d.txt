@@ -1,0 +1,4 @@
+Patient: Wilber603 Schinner682
+Visit date: 1968-11-17T17:42:20Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hypertension

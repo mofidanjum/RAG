@@ -1,0 +1,4 @@
+Patient: Sanford861 Fritsch593
+Visit date: 1948-08-27T09:55:43Z
+Visit type: General examination of patient (procedure) (wellness)
+Medications prescribed: 24hr nicotine transdermal patch

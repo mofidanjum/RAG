@@ -1,0 +1,4 @@
+Patient: Logan497 Brekke496
+Visit date: 1972-05-05T23:35:03Z
+Visit type: Stroke (emergency)
+Conditions noted: Stroke

@@ -1,0 +1,4 @@
+Patient: Weldon459 Effertz744
+Visit date: 1986-01-24T04:27:38Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Conditions noted: Chronic kidney disease stage 1 (disorder), Diabetic renal disease (disorder)

@@ -1,0 +1,5 @@
+Patient: Logan497 Brekke496
+Visit date: 1973-07-27T23:35:03Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hyperlipidemia
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin], insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

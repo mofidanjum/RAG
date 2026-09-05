@@ -1,0 +1,5 @@
+Patient: Ira784 Tremblay80
+Visit date: 1969-05-31T22:09:56Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hyperglycemia (disorder), Hypertriglyceridemia (disorder), Metabolic syndrome X (disorder), Anemia (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

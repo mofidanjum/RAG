@@ -1,0 +1,4 @@
+Patient: Ira784 Tremblay80
+Visit date: 1972-06-17T22:09:56Z
+Visit type: General examination of patient (procedure) (wellness)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

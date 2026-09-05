@@ -1,0 +1,4 @@
+Patient: Logan497 Brekke496
+Visit date: 1974-10-04T23:35:03Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

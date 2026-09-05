@@ -1,0 +1,5 @@
+Patient: Teddy976 Cremin516
+Visit date: 1969-03-29T20:06:53Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Conditions noted: Diabetes, Chronic kidney disease stage 2 (disorder), Diabetic renal disease (disorder), Microalbuminuria due to type 2 diabetes mellitus (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

@@ -1,0 +1,4 @@
+Patient: Wilber603 Schinner682
+Visit date: 1974-12-22T17:42:20Z
+Visit type: General examination of patient (procedure) (wellness)
+Medications prescribed: Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet

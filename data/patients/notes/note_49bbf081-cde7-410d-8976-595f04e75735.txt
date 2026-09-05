@@ -1,0 +1,5 @@
+Patient: Teddy976 Cremin516
+Visit date: 1969-04-05T20:06:53Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hyperglycemia (disorder), Hypertriglyceridemia (disorder), Metabolic syndrome X (disorder), Prediabetes
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

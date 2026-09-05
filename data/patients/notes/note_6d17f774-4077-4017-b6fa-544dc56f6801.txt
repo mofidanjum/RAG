@@ -1,0 +1,5 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1990-05-05T08:37:29Z
+Visit type: Encounter Inpatient (inpatient)
+Reason for visit: Chronic pain
+Conditions noted: Chronic pain

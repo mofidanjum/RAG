@@ -1,0 +1,4 @@
+Patient: Teddy976 Cremin516
+Visit date: 1967-07-29T20:06:53Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Body mass index 30+ - obesity (finding)

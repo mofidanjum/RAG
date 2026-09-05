@@ -1,0 +1,4 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1990-02-23T08:37:29Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin], 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

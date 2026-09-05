@@ -1,0 +1,4 @@
+Patient: Earle679 Frami345
+Visit date: 1943-05-17T13:57:11Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: Hydrochlorothiazide 25 MG Oral Tablet

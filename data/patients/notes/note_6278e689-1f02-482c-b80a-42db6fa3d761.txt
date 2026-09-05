@@ -1,0 +1,3 @@
+Patient: Logan497 Brekke496
+Visit date: 1955-05-11T23:35:03Z
+Visit type: Emergency room admission (procedure) (emergency)

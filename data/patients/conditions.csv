@@ -1,0 +1,113 @@
+START,STOP,PATIENT,VISIT_ID,CODE,DESCRIPTION
+1978-06-30,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,02f5e694-75a7-4f2a-b28c-df4c5b7f5d69,44054006,Diabetes
+1978-06-30,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,02f5e694-75a7-4f2a-b28c-df4c5b7f5d69,422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+1981-07-03,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,532c4f8b-2be7-425d-92bb-89cc9329703d,302870006,Hypertriglyceridemia (disorder)
+1981-07-03,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,532c4f8b-2be7-425d-92bb-89cc9329703d,237602007,Metabolic syndrome X (disorder)
+1981-07-03,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,532c4f8b-2be7-425d-92bb-89cc9329703d,271737000,Anemia (disorder)
+1981-07-03,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,5763cfad-cf67-44dc-8a7d-a3416dd21927,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder)
+1983-11-03,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,60319449-1d99-4c44-a23a-5aacaabc0d9f,7200002,Alcoholism
+1986-01-23,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,103c75b1-f1ed-4407-8286-a471c9cc6fcd,431855005,Chronic kidney disease stage 1 (disorder)
+1986-01-23,,a708bca4-8fc9-4567-8c22-8b13d44f4f45,103c75b1-f1ed-4407-8286-a471c9cc6fcd,127013003,Diabetic renal disease (disorder)
+1969-03-01,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,f9d7d327-8c75-4fb1-9b5c-152b226a49db,162864005,Body mass index 30+ - obesity (finding)
+1976-03-13,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,53b3194e-342a-47a0-bacf-8e24491c2892,44054006,Diabetes
+1977-03-19,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,302870006,Hypertriglyceridemia (disorder)
+1977-03-19,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,237602007,Metabolic syndrome X (disorder)
+1977-03-19,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,15777000,Prediabetes
+1977-03-19,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,431855005,Chronic kidney disease stage 1 (disorder)
+1977-03-19,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,ee5898a0-7865-442a-a004-56db5d81a67e,127013003,Diabetic renal disease (disorder)
+1977-12-31,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,0b637bf5-6cb1-4fdc-9c5a-6e9d4fdaadfc,431856006,Chronic kidney disease stage 2 (disorder)
+1977-12-31,,cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,0b637bf5-6cb1-4fdc-9c5a-6e9d4fdaadfc,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder)
+1951-08-31,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,17c096ab-bb41-48ae-ad41-3e7add7a8f50,5602001,Opioid abuse (disorder)
+1951-08-31,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,17c096ab-bb41-48ae-ad41-3e7add7a8f50,449868002,Smokes tobacco daily
+1951-08-31,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,17c096ab-bb41-48ae-ad41-3e7add7a8f50,162864005,Body mass index 30+ - obesity (finding)
+1965-07-02,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,6ded6bd9-faf9-42a5-a681-36d98aa7fe70,15777000,Prediabetes
+1965-07-02,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,6ded6bd9-faf9-42a5-a681-36d98aa7fe70,271737000,Anemia (disorder)
+1969-07-11,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,7db0b7c5-95f7-4dd5-89b1-3192a9cb590c,44054006,Diabetes
+1971-07-16,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,6ab53524-ff9b-4043-957b-7154eeee1b59,302870006,Hypertriglyceridemia (disorder)
+1971-07-16,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,6ab53524-ff9b-4043-957b-7154eeee1b59,237602007,Metabolic syndrome X (disorder)
+1972-07-21,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,164d0385-40b3-45d8-a9a0-237606c07f24,80394007,Hyperglycemia (disorder)
+1972-07-21,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,164d0385-40b3-45d8-a9a0-237606c07f24,431855005,Chronic kidney disease stage 1 (disorder)
+1972-07-21,,3f336702-bf73-4fc8-bd59-3ba77fd65d0d,164d0385-40b3-45d8-a9a0-237606c07f24,127013003,Diabetic renal disease (disorder)
+1947-12-03,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,e923cd19-92a5-4db8-a1ab-254164a86de8,40055000,Chronic sinusitis (disorder)
+1967-07-29,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,7b2838f9-c77c-431f-ac79-7fe8a7f918ae,162864005,Body mass index 30+ - obesity (finding)
+1969-03-29,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,4a01a630-bf34-4f46-8ac6-fea9df2b86ef,44054006,Diabetes
+1969-03-29,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,4a01a630-bf34-4f46-8ac6-fea9df2b86ef,431856006,Chronic kidney disease stage 2 (disorder)
+1969-03-29,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,4a01a630-bf34-4f46-8ac6-fea9df2b86ef,127013003,Diabetic renal disease (disorder)
+1969-03-29,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,4a01a630-bf34-4f46-8ac6-fea9df2b86ef,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder)
+1969-04-05,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,49bbf081-cde7-410d-8976-595f04e75735,80394007,Hyperglycemia (disorder)
+1969-04-05,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,49bbf081-cde7-410d-8976-595f04e75735,302870006,Hypertriglyceridemia (disorder)
+1969-04-05,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,49bbf081-cde7-410d-8976-595f04e75735,237602007,Metabolic syndrome X (disorder)
+1969-04-05,,59cf17d9-6c13-4333-a1cb-cc5fdf63366d,49bbf081-cde7-410d-8976-595f04e75735,15777000,Prediabetes
+1964-08-14,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,b4072f7b-49d3-4f39-b6d8-8a36fb5cb4e1,162864005,Body mass index 30+ - obesity (finding)
+1979-09-28,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,739c3d75-a882-4cbf-be9a-309ee90c46c6,44054006,Diabetes
+1979-09-28,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,739c3d75-a882-4cbf-be9a-309ee90c46c6,271737000,Anemia (disorder)
+1982-10-01,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,895bf960-1831-47c5-ba8f-40399b7b6593,302870006,Hypertriglyceridemia (disorder)
+1982-10-01,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,895bf960-1831-47c5-ba8f-40399b7b6593,237602007,Metabolic syndrome X (disorder)
+1983-10-07,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,88e1121d-6b35-4569-bdb4-53686403c25c,5602001,Opioid abuse (disorder)
+1983-10-07,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,88e1121d-6b35-4569-bdb4-53686403c25c,80394007,Hyperglycemia (disorder)
+1983-10-07,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,88e1121d-6b35-4569-bdb4-53686403c25c,15777000,Prediabetes
+1985-10-18,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,16ecfae3-ae74-4023-89c3-1acb52c9c42a,431855005,Chronic kidney disease stage 1 (disorder)
+1985-10-18,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,16ecfae3-ae74-4023-89c3-1acb52c9c42a,127013003,Diabetic renal disease (disorder)
+1990-05-05,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,6d17f774-4077-4017-b6fa-544dc56f6801,82423001,Chronic pain
+1990-07-14,,13a3a783-ecc5-4ec5-b3dc-168b15cebb88,d0849bc7-cee4-42e3-862f-1f16b98d7981,124171000119105,Chronic intractable migraine without aura
+1968-11-17,,fd3acd35-add1-4634-8c90-68ed0f638fde,6d08e8c3-de1f-41bf-97c3-f5e6ce1ad18d,59621000,Hypertension
+1950-11-23,,cae10920-f977-48b4-a0d3-4d70ad561fd1,9502c4e9-c3f9-418e-ab7c-cd7711ff0f7e,40055000,Chronic sinusitis (disorder)
+1959-05-19,,cae10920-f977-48b4-a0d3-4d70ad561fd1,edd09cd5-414f-44db-8319-87a965241b7e,239872002,Osteoarthritis of hip
+1963-05-31,,cae10920-f977-48b4-a0d3-4d70ad561fd1,e6736bfd-eabe-4014-8fff-abaa0dace3ac,44054006,Diabetes
+1964-06-05,,cae10920-f977-48b4-a0d3-4d70ad561fd1,93e58e80-1ceb-4365-99be-757bbd1e9e03,302870006,Hypertriglyceridemia (disorder)
+1964-06-05,,cae10920-f977-48b4-a0d3-4d70ad561fd1,93e58e80-1ceb-4365-99be-757bbd1e9e03,237602007,Metabolic syndrome X (disorder)
+1964-06-05,,cae10920-f977-48b4-a0d3-4d70ad561fd1,93e58e80-1ceb-4365-99be-757bbd1e9e03,422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+1966-06-17,,cae10920-f977-48b4-a0d3-4d70ad561fd1,1ab058cb-9d80-4086-88c5-d1e93066e54b,271737000,Anemia (disorder)
+1972-05-05,,cae10920-f977-48b4-a0d3-4d70ad561fd1,8faf4363-8c01-4697-8f33-0ee45f6868f5,230690007,Stroke
+1972-07-21,,cae10920-f977-48b4-a0d3-4d70ad561fd1,d66080d9-f633-4b45-91ae-63b0e905d897,431855005,Chronic kidney disease stage 1 (disorder)
+1972-07-21,,cae10920-f977-48b4-a0d3-4d70ad561fd1,d66080d9-f633-4b45-91ae-63b0e905d897,127013003,Diabetic renal disease (disorder)
+1973-07-27,,cae10920-f977-48b4-a0d3-4d70ad561fd1,4fdd5f70-d12e-4ad5-8678-45dcd042945b,55822004,Hyperlipidemia
+1917-06-07,1917-09-06,137acc1b-dbca-473e-84bb-fe1baaf98819,eff55e8b-22a8-493f-86e9-16517ce78d95,40055000,Chronic sinusitis (disorder)
+1930-01-12,,137acc1b-dbca-473e-84bb-fe1baaf98819,8d52de51-2392-4bf1-8a25-acb14c76056a,15777000,Prediabetes
+1930-01-12,,137acc1b-dbca-473e-84bb-fe1baaf98819,8d52de51-2392-4bf1-8a25-acb14c76056a,271737000,Anemia (disorder)
+1934-01-21,,137acc1b-dbca-473e-84bb-fe1baaf98819,7dbdae92-fb19-4041-a8d9-68e40a22d1b3,44054006,Diabetes
+1937-01-24,,137acc1b-dbca-473e-84bb-fe1baaf98819,7b34a2f7-ff38-4db5-8a18-7124bb91d0fc,302870006,Hypertriglyceridemia (disorder)
+1942-06-21,,137acc1b-dbca-473e-84bb-fe1baaf98819,cfc1a4e3-872f-4aa3-944d-0d1369906547,431855005,Chronic kidney disease stage 1 (disorder)
+1942-06-21,,137acc1b-dbca-473e-84bb-fe1baaf98819,cfc1a4e3-872f-4aa3-944d-0d1369906547,127013003,Diabetic renal disease (disorder)
+1943-01-31,,137acc1b-dbca-473e-84bb-fe1baaf98819,72361e01-d78a-4a5f-b2f9-aca05eaab49d,237602007,Metabolic syndrome X (disorder)
+1955-04-06,,6ec18ddf-e9ee-421a-9033-456f558c7b4b,ae8cf7d5-a92e-43b5-81b9-a11651e29bbf,59621000,Hypertension
+1958-05-28,,6ec18ddf-e9ee-421a-9033-456f558c7b4b,2fd99db0-3c2e-44d2-bd2e-2a864684cd7a,40055000,Chronic sinusitis (disorder)
+1959-09-30,,714b9c18-783d-4f52-aa64-cc3a05a286d9,8299d5d4-f678-406b-8e52-b1508ca922cb,410429000,Cardiac Arrest
+1959-09-30,,714b9c18-783d-4f52-aa64-cc3a05a286d9,8299d5d4-f678-406b-8e52-b1508ca922cb,429007001,History of cardiac arrest (situation)
+1964-03-17,,714b9c18-783d-4f52-aa64-cc3a05a286d9,d14c80d7-eb93-484f-a50a-136b7a9e6171,59621000,Hypertension
+1977-06-01,,714b9c18-783d-4f52-aa64-cc3a05a286d9,8065fa76-d23b-426c-8560-e0cf4f76d967,162864005,Body mass index 30+ - obesity (finding)
+1933-08-08,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,b20dca55-246d-4271-ad05-3d677e1e25aa,40055000,Chronic sinusitis (disorder)
+1962-05-12,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,4d4c92bc-9125-4f58-b147-ebb490c2a87d,162864005,Body mass index 30+ - obesity (finding)
+1964-05-16,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,31835c4d-ae94-463b-986a-bc932bd7f13c,55822004,Hyperlipidemia
+1964-05-16,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,31835c4d-ae94-463b-986a-bc932bd7f13c,15777000,Prediabetes
+1968-05-25,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,d9e2ce9b-1a35-4bf5-bcad-8d3f25c1718e,44054006,Diabetes
+1969-05-31,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,746122fe-6e33-4eb6-8c9c-0f9802a2a963,80394007,Hyperglycemia (disorder)
+1969-05-31,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,746122fe-6e33-4eb6-8c9c-0f9802a2a963,302870006,Hypertriglyceridemia (disorder)
+1969-05-31,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,746122fe-6e33-4eb6-8c9c-0f9802a2a963,237602007,Metabolic syndrome X (disorder)
+1969-05-31,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,746122fe-6e33-4eb6-8c9c-0f9802a2a963,271737000,Anemia (disorder)
+1972-05-20,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,539e9838-74cb-4b23-850e-f43ce28b5838,431855005,Chronic kidney disease stage 1 (disorder)
+1972-05-20,,3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,539e9838-74cb-4b23-850e-f43ce28b5838,127013003,Diabetic renal disease (disorder)
+1947-08-08,,2c71dd97-7085-416a-aa07-d675bbe3adf2,981bb191-fdee-4d32-878e-fc379fcb66fd,410429000,Cardiac Arrest
+1947-08-08,,2c71dd97-7085-416a-aa07-d675bbe3adf2,981bb191-fdee-4d32-878e-fc379fcb66fd,429007001,History of cardiac arrest (situation)
+1956-03-23,,2c71dd97-7085-416a-aa07-d675bbe3adf2,b7cc4b60-378f-4510-8749-5257ca7bb722,162864005,Body mass index 30+ - obesity (finding)
+1957-03-29,,2c71dd97-7085-416a-aa07-d675bbe3adf2,c57a224c-946e-4f30-a64d-98cad958525c,408512008,Body mass index 40+ - severely obese (finding)
+1959-04-10,,2c71dd97-7085-416a-aa07-d675bbe3adf2,8cdce088-10a5-4f10-a2c1-041ed485f2e7,59621000,Hypertension
+1969-06-06,,2c71dd97-7085-416a-aa07-d675bbe3adf2,b4c484b0-3b89-4233-be63-1712e6a404f2,44054006,Diabetes
+1969-06-06,,2c71dd97-7085-416a-aa07-d675bbe3adf2,b4c484b0-3b89-4233-be63-1712e6a404f2,271737000,Anemia (disorder)
+1970-06-12,,2c71dd97-7085-416a-aa07-d675bbe3adf2,e4ac84b9-a8a9-4337-a3dc-514403b5df3b,302870006,Hypertriglyceridemia (disorder)
+1970-06-12,,2c71dd97-7085-416a-aa07-d675bbe3adf2,e4ac84b9-a8a9-4337-a3dc-514403b5df3b,237602007,Metabolic syndrome X (disorder)
+1971-06-18,,2c71dd97-7085-416a-aa07-d675bbe3adf2,f47b9642-dac5-4f4f-a2ab-aecfe601805d,80394007,Hyperglycemia (disorder)
+1934-06-25,,3acf9313-1874-4dff-ab2a-3187516d92d6,9911370d-0d61-475f-8982-50d8d9ec0f51,162864005,Body mass index 30+ - obesity (finding)
+1935-07-01,,3acf9313-1874-4dff-ab2a-3187516d92d6,d7fe5ec7-27b4-4ab2-b9cc-3d6fea8a2e05,59621000,Hypertension
+1951-10-01,,3acf9313-1874-4dff-ab2a-3187516d92d6,44bc2742-8d0c-4bec-9929-61a2132ee85a,7200002,Alcoholism
+1936-01-06,,19d2cfb8-439b-454a-b47e-5274c219005b,84914dd3-7f71-465a-916b-57a1f60bb567,40055000,Chronic sinusitis (disorder)
+1939-11-12,,19d2cfb8-439b-454a-b47e-5274c219005b,f38ced16-f4a4-42aa-b9d3-0546fdf45e84,162864005,Body mass index 30+ - obesity (finding)
+1944-12-31,,19d2cfb8-439b-454a-b47e-5274c219005b,bc30b19b-3bf0-41e8-aba3-430c833b1fd8,15777000,Prediabetes
+1944-12-31,,19d2cfb8-439b-454a-b47e-5274c219005b,bc30b19b-3bf0-41e8-aba3-430c833b1fd8,271737000,Anemia (disorder)
+1948-09-05,,19d2cfb8-439b-454a-b47e-5274c219005b,6ba161b6-121f-44e9-9899-6505efe0aea6,44054006,Diabetes
+1948-09-05,,19d2cfb8-439b-454a-b47e-5274c219005b,6ba161b6-121f-44e9-9899-6505efe0aea6,431856006,Chronic kidney disease stage 2 (disorder)
+1948-09-05,,19d2cfb8-439b-454a-b47e-5274c219005b,6ba161b6-121f-44e9-9899-6505efe0aea6,127013003,Diabetic renal disease (disorder)
+1948-09-05,,19d2cfb8-439b-454a-b47e-5274c219005b,6ba161b6-121f-44e9-9899-6505efe0aea6,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder)
+1948-09-05,,19d2cfb8-439b-454a-b47e-5274c219005b,6ba161b6-121f-44e9-9899-6505efe0aea6,59621000,Hypertension
+1948-09-12,,19d2cfb8-439b-454a-b47e-5274c219005b,46182490-3d96-41fd-a973-3c3547b52760,302870006,Hypertriglyceridemia (disorder)
+1948-09-12,,19d2cfb8-439b-454a-b47e-5274c219005b,46182490-3d96-41fd-a973-3c3547b52760,237602007,Metabolic syndrome X (disorder)

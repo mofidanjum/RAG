@@ -1,0 +1,4 @@
+Patient: Earle679 Frami345
+Visit date: 1934-06-25T13:57:11Z
+Visit type: Well child visit (procedure) (wellness)
+Conditions noted: Body mass index 30+ - obesity (finding)

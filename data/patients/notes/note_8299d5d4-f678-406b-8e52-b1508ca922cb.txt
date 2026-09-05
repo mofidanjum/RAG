@@ -1,0 +1,4 @@
+Patient: Noble66 Sipes176
+Visit date: 1959-09-30T04:48:12Z
+Visit type: Cardiac Arrest (emergency)
+Conditions noted: Cardiac Arrest, History of cardiac arrest (situation)

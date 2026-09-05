@@ -1,0 +1,3 @@
+Patient: Wilber603 Schinner682
+Visit date: 1956-05-06T17:42:20Z
+Visit type: Encounter for check up (procedure) (outpatient)

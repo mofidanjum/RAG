@@ -1,0 +1,4 @@
+Patient: Isiah14 Fritsch593
+Visit date: 1982-01-09T06:11:10Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin], 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

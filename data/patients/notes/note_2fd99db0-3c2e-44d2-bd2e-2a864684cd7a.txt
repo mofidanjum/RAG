@@ -1,0 +1,5 @@
+Patient: Stanley702 Douglas31
+Visit date: 1958-05-28T21:19:21Z
+Visit type: Encounter for symptom (ambulatory)
+Reason for visit: Sinusitis (disorder)
+Conditions noted: Chronic sinusitis (disorder)

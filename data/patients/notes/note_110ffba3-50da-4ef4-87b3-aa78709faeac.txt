@@ -1,0 +1,5 @@
+Patient: Luigi346 Schultz619
+Visit date: 1939-12-06T02:04:01Z
+Visit type: Encounter for symptom (ambulatory)
+Reason for visit: Childhood asthma
+Medications prescribed: 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler

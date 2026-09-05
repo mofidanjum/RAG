@@ -1,0 +1,5 @@
+Patient: Sanford861 Fritsch593
+Visit date: 1972-07-21T09:55:43Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hyperglycemia (disorder), Chronic kidney disease stage 1 (disorder), Diabetic renal disease (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

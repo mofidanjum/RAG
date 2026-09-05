@@ -1,0 +1,5 @@
+Patient: Isiah14 Fritsch593
+Visit date: 1977-12-31T06:11:10Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Conditions noted: Chronic kidney disease stage 2 (disorder), Microalbuminuria due to type 2 diabetes mellitus (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

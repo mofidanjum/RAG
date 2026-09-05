@@ -1,0 +1,5 @@
+Patient: Boyd728 Beahan375
+Visit date: 1943-01-17T19:05:21Z
+Visit type: Non-urgent orthopedic admission (inpatient)
+Reason for visit: Injury of medial collateral ligament of knee
+Medications prescribed: Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet

@@ -1,0 +1,5 @@
+Patient: Logan497 Brekke496
+Visit date: 1974-08-17T23:35:03Z
+Visit type: Follow-up encounter (ambulatory)
+Reason for visit: Hyperlipidemia
+Medications prescribed: Simvastatin 10 MG Oral Tablet

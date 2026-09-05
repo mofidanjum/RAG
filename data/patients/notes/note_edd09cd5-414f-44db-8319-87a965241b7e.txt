@@ -1,0 +1,6 @@
+Patient: Logan497 Brekke496
+Visit date: 1959-05-19T23:35:03Z
+Visit type: Encounter for problem (ambulatory)
+Reason for visit: Osteoarthritis of hip
+Conditions noted: Osteoarthritis of hip
+Medications prescribed: Naproxen sodium 220 MG Oral Tablet

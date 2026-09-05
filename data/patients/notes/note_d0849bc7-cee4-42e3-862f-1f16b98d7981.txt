@@ -1,0 +1,5 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1990-07-14T08:37:29Z
+Visit type: Encounter Inpatient (inpatient)
+Reason for visit: Chronic intractable migraine without aura
+Conditions noted: Chronic intractable migraine without aura

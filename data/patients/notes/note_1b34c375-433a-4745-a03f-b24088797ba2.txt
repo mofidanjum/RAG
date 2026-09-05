@@ -1,0 +1,4 @@
+Patient: Weldon459 Effertz744
+Visit date: 1987-04-10T04:27:38Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

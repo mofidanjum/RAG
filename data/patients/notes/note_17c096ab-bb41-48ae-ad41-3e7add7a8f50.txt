@@ -1,0 +1,4 @@
+Patient: Sanford861 Fritsch593
+Visit date: 1951-08-31T09:55:43Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Opioid abuse (disorder), Smokes tobacco daily, Body mass index 30+ - obesity (finding)

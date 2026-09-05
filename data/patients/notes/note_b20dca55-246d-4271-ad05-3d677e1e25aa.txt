@@ -1,0 +1,5 @@
+Patient: Ira784 Tremblay80
+Visit date: 1933-08-08T22:09:56Z
+Visit type: Encounter for symptom (ambulatory)
+Reason for visit: Acute bacterial sinusitis (disorder)
+Conditions noted: Chronic sinusitis (disorder)

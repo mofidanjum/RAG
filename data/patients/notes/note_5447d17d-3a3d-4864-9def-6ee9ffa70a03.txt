@@ -1,0 +1,4 @@
+Patient: Ira784 Tremblay80
+Visit date: 1971-06-12T22:09:56Z
+Visit type: General examination of patient (procedure) (wellness)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

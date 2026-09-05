@@ -1,0 +1,4 @@
+Patient: Logan497 Brekke496
+Visit date: 1966-06-17T23:35:03Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Anemia (disorder)

@@ -1,0 +1,4 @@
+Patient: Luigi346 Schultz619
+Visit date: 1956-03-10T02:04:01Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler

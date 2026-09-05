@@ -1,0 +1,5 @@
+Patient: Weldon459 Effertz744
+Visit date: 1981-07-03T04:27:38Z
+Visit type: Encounter for problem (ambulatory)
+Reason for visit: Anemia (disorder)
+Conditions noted: Neuropathy due to type 2 diabetes mellitus (disorder)

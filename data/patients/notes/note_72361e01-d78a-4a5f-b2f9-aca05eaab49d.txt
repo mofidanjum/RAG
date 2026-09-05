@@ -1,0 +1,5 @@
+Patient: Boyd728 Beahan375
+Visit date: 1943-01-31T19:05:21Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Metabolic syndrome X (disorder)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin], insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

@@ -1,0 +1,4 @@
+Patient: Boyd728 Beahan375
+Visit date: 1930-01-12T19:05:21Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Prediabetes, Anemia (disorder)

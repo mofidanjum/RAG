@@ -1,0 +1,5 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1983-11-01T08:37:29Z
+Visit type: Encounter for symptom (ambulatory)
+Reason for visit: Streptococcal sore throat (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

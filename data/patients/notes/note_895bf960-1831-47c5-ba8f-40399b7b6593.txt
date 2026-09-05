@@ -1,0 +1,5 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1982-10-01T08:37:29Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hypertriglyceridemia (disorder), Metabolic syndrome X (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

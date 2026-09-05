@@ -1,0 +1,5 @@
+Patient: Ira784 Tremblay80
+Visit date: 1972-05-20T22:09:56Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Conditions noted: Chronic kidney disease stage 1 (disorder), Diabetic renal disease (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

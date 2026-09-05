@@ -1,0 +1,5 @@
+Patient: Ira784 Tremblay80
+Visit date: 1970-06-05T22:09:56Z
+Visit type: Follow-up encounter (ambulatory)
+Reason for visit: Hyperlipidemia
+Medications prescribed: Simvastatin 10 MG Oral Tablet, 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

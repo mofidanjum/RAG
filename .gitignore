@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 .env
 data/complaints_full.parquet
+data/patients/synthea_sample_data_csv_apr2020.zip
+data/patients/csv/
 .claude/

@@ -1,0 +1,5 @@
+Patient: Luigi346 Schultz619
+Visit date: 1940-11-03T02:04:01Z
+Visit type: Encounter for 'check-up' (ambulatory)
+Reason for visit: Concussion with loss of consciousness
+Medications prescribed: 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler, NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler

@@ -1,0 +1,5 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1983-10-07T08:37:29Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Opioid abuse (disorder), Hyperglycemia (disorder), Prediabetes
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

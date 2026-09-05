@@ -1,0 +1,4 @@
+Patient: Noble66 Sipes176
+Visit date: 1975-09-24T04:48:12Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: Hydrochlorothiazide 25 MG Oral Tablet

@@ -1,0 +1,4 @@
+Patient: Weldon459 Effertz744
+Visit date: 1983-11-04T04:27:38Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Conditions noted: Alcoholism

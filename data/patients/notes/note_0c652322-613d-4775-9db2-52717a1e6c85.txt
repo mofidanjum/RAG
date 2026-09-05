@@ -1,0 +1,4 @@
+Patient: Walker122 Kuhic920
+Visit date: 1951-02-25T09:30:42Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin], Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet

@@ -1,0 +1,4 @@
+Patient: Ira784 Tremblay80
+Visit date: 1962-05-12T22:09:56Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Body mass index 30+ - obesity (finding)

@@ -1,0 +1,4 @@
+Patient: Weldon459 Effertz744
+Visit date: 1978-06-30T04:27:38Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Diabetes, Diabetic retinopathy associated with type II diabetes mellitus (disorder)

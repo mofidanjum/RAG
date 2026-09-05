@@ -1,0 +1,5 @@
+Patient: Sanford861 Fritsch593
+Visit date: 1971-07-16T09:55:43Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hypertriglyceridemia (disorder), Metabolic syndrome X (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

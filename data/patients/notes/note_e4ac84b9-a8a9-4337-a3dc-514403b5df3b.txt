@@ -1,0 +1,5 @@
+Patient: Samatha845 Mueller846
+Visit date: 1970-06-12T20:51:21Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hypertriglyceridemia (disorder), Metabolic syndrome X (disorder)
+Medications prescribed: amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet, 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

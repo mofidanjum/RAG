@@ -1,0 +1,4 @@
+Patient: Walker122 Kuhic920
+Visit date: 1939-11-12T09:30:42Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Body mass index 30+ - obesity (finding)

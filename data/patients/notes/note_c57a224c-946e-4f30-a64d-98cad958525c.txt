@@ -1,0 +1,4 @@
+Patient: Samatha845 Mueller846
+Visit date: 1957-03-29T20:51:21Z
+Visit type: Well child visit (procedure) (wellness)
+Conditions noted: Body mass index 40+ - severely obese (finding)

@@ -1,0 +1,4 @@
+Patient: Logan497 Brekke496
+Visit date: 1963-05-31T23:35:03Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Diabetes

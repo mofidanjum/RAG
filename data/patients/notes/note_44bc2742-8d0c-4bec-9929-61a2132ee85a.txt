@@ -1,0 +1,5 @@
+Patient: Earle679 Frami345
+Visit date: 1951-10-01T13:57:11Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Alcoholism
+Medications prescribed: Hydrochlorothiazide 25 MG Oral Tablet

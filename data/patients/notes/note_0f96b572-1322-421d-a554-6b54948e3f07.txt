@@ -1,0 +1,4 @@
+Patient: Stanley702 Douglas31
+Visit date: 1956-02-08T21:19:21Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet

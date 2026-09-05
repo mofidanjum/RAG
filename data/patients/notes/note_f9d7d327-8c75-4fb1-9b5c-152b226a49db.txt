@@ -1,0 +1,4 @@
+Patient: Isiah14 Fritsch593
+Visit date: 1969-03-01T06:11:10Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Body mass index 30+ - obesity (finding)

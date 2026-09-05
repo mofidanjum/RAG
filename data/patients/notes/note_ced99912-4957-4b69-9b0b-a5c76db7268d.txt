@@ -1,0 +1,3 @@
+Patient: Stanley702 Douglas31
+Visit date: 1943-03-31T21:19:21Z
+Visit type: Encounter for check up (procedure) (outpatient)

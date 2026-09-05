@@ -1,0 +1,5 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1985-10-18T08:37:29Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Chronic kidney disease stage 1 (disorder), Diabetic renal disease (disorder)
+Medications prescribed: 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet

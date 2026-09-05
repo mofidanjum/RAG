@@ -1,0 +1,4 @@
+Patient: Boyd728 Beahan375
+Visit date: 1948-06-20T19:05:21Z
+Visit type: Encounter for check up (procedure) (outpatient)
+Medications prescribed: insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]

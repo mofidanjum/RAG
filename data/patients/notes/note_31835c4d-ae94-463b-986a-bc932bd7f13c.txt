@@ -1,0 +1,4 @@
+Patient: Ira784 Tremblay80
+Visit date: 1964-05-16T22:09:56Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Hyperlipidemia, Prediabetes

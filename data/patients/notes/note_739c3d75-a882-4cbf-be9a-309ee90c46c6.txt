@@ -1,0 +1,4 @@
+Patient: Mohammad578 Nikolaus26
+Visit date: 1979-09-28T08:37:29Z
+Visit type: General examination of patient (procedure) (wellness)
+Conditions noted: Diabetes, Anemia (disorder)
