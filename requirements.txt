@@ -73,6 +73,7 @@ packaging==26.3
 pandas==3.0.5
 pillow==12.3.0
 pinecone==10.0.0
+plotly==7.0.0
 propcache==0.5.2
 protobuf==7.36.1
 pyarrow==25.0.1
