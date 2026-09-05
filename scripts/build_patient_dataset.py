@@ -1,16 +1,29 @@
 import os
+import urllib.request
+import zipfile
 
 import pandas as pd
 
 N_PATIENTS = 15
 MAX_VISITS_PER_PATIENT = 20
 
+SYNTHEA_ZIP_URL = "https://synthetichealth.github.io/synthea-sample-data/downloads/synthea_sample_data_csv_apr2020.zip"
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_DIR = os.path.join(BASE_DIR, "data", "patients", "csv")
+ZIP_PATH = os.path.join(BASE_DIR, "data", "patients", "synthea_sample_data_csv_apr2020.zip")
 OUT_DIR = os.path.join(BASE_DIR, "data", "patients")
 NOTES_DIR = os.path.join(OUT_DIR, "notes")
 
 os.makedirs(NOTES_DIR, exist_ok=True)
+
+if not os.path.exists(os.path.join(CSV_DIR, "patients.csv")):
+    print("raw Synthea data not found locally, downloading (~9MB)...")
+    urllib.request.urlretrieve(SYNTHEA_ZIP_URL, ZIP_PATH)
+    print("extracting...")
+    with zipfile.ZipFile(ZIP_PATH) as zf:
+        zf.extractall(OUT_DIR)
+    print("done downloading/extracting raw data")
 
 print("loading source tables...")
 patients = pd.read_csv(os.path.join(CSV_DIR, "patients.csv"))

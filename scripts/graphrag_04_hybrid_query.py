@@ -1,4 +1,5 @@
 import os
+import sqlite3
 import sys
 
 from dotenv import load_dotenv
@@ -90,16 +91,31 @@ def _strip_query(text):
     return text.strip()
 
 
+def _fetch_raw_rows(query):
+    """Re-run the query directly against SQLite to get real (columns, rows),
+    for charting -- db.run() only gives back a stringified result."""
+    try:
+        conn = sqlite3.connect(SQLITE_PATH)
+        cursor = conn.execute(query)
+        columns = [d[0] for d in cursor.description]
+        rows = cursor.fetchall()
+        conn.close()
+        return columns, rows
+    except Exception:
+        return None
+
+
 def query_sql(question, db, llm):
     raw = llm.invoke(SQL_PROMPT.format(schema=db.get_table_info(), question=question)).content
     query = _strip_query(raw)
     if query.upper() == "NONE":
-        return None, None
+        return None, None, None
     try:
         result = db.run(query)
-        return query, result
+        raw_rows = _fetch_raw_rows(query)
+        return query, result, raw_rows
     except Exception as e:
-        return query, f"(query failed: {e})"
+        return query, f"(query failed: {e})", None
 
 
 def query_graph(question, graph, llm):
@@ -121,7 +137,7 @@ def query_vectors(question, index, embedder, top_k=3):
 
 
 def answer_question(question, db, graph, index, embedder, llm):
-    sql_query, sql_result = query_sql(question, db, llm)
+    sql_query, sql_result, sql_rows = query_sql(question, db, llm)
     cypher_query, cypher_result = query_graph(question, graph, llm)
     matches = query_vectors(question, index, embedder)
 
@@ -142,6 +158,7 @@ def answer_question(question, db, graph, index, embedder, llm):
     evidence = {
         "sql_query": sql_query,
         "sql_result": sql_result,
+        "sql_rows": sql_rows,
         "cypher_query": cypher_query,
         "cypher_result": cypher_result,
         "vector_matches": matches,
