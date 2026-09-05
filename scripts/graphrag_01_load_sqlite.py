@@ -9,12 +9,10 @@ DB_PATH = os.path.join(DATA_DIR, "patients.db")
 
 TABLES = ["patients", "visits", "conditions", "medications", "procedures"]
 
-if os.path.exists(DB_PATH):
-    os.remove(DB_PATH)
-
 conn = sqlite3.connect(DB_PATH)
 
 for table in TABLES:
+    conn.execute(f"DROP TABLE IF EXISTS {table}")
     df = pd.read_csv(os.path.join(DATA_DIR, f"{table}.csv"))
     df.to_sql(table, conn, index=False)
     print(f"loaded {table}: {len(df)} rows")
